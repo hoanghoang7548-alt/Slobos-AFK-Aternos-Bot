@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 50,
       "messages": [
-        "I'm a stupid bot",
-        "HELLO EVERYONE!",
-        "I like to play Minecraft!"
+        "I'm a stupid bot"
       ]
     },
     "chat-log": true,
